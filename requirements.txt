@@ -3,5 +3,5 @@ pandas
 numpy
 flask
 urllib3
-googlesearch
+googlesearch-python
 tld
